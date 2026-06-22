@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "Portfolio - Oskar",
+    "slug": "portfolio-oskar",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "backgroundColor": "#0A0F0D"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.oskar.portfolio",
+      "backgroundColor": "#0A0F0D"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0A0F0D"
+      },
+      "package": "com.oskar.portfolio"
+    },
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-asset"
+    ]
+  }
+}
