@@ -129,11 +129,11 @@ Zeskanuj QR kod w aplikacji Expo Go (iOS / Android).
 
 ## Widoki z Figmy
 
-[Profil](./docs/01-profil.png)
-[Projekty](./docs/02-projekty.png)
-[Szczegóły](./docs/03-szczegoly.png)
-[Dodaj](./docs/04-dodaj.png)
-[Kontakt](./docs/05-kontakt.png)
+![Profil](./docs/01-profil.png)
+![Projekty](./docs/02-projekty.png)
+![Szczegóły](./docs/03-szczegoly.png)
+![Dodaj](./docs/04-dodaj.png)
+![Kontakt](./docs/05-kontakt.png)
 
 ---
 
