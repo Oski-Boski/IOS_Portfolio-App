@@ -2,7 +2,7 @@
 
 # 🚀 Portfolio Studenta
 
-### Oskar — Akademia Śląska
+### Oskar Mikusz — Akademia Śląska
 
 Mobilna aplikacja portfolio zbudowana w React Native / Expo z nowoczesnym ciemnozielonym motywem.
 

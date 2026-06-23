@@ -4,7 +4,7 @@
 
 export const profileData = {
   name: "Oskar Mikusz",
-  surname: "Portfolio",
+  surname: "Mikusz",
   title: "Student Informatyki",
   school: "Akademia Śląska",
   bio: "Student kierunku informatycznego na Akademii Śląskiej. Pasjonat tworzenia aplikacji webowych i mobilnych. Doświadczenie w React, React Native, Vue.js, Node.js, Python/Django oraz narzędziach no-code. Zawsze szukam nowych wyzwań technologicznych.",
